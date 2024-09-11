@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "type": "cultural",
+      "headline": "India won the international award for the best cultural country",
+      "date": "2021-06-01",
+      "image": "https://www.shutterstock.com/image-vector/gold-podium-star-vector-illustration-600nw-2473961929.jpg",
+      "author": "John Doe",
+      "content": "India has been awarded the best cultural country award by the International Cultural Organization for its rich and diverse cultural heritage."
+    },
+    {
+      "id": 2,
+      "type": "historical",
+      "headline": "Lost texts from Mount Vesuvius eruption deciphered with new AI",
+      "date": "2024-05-10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqkToxMGPhj-8_uS5e1izTbxpyaIeO4Ydu4w&s",
+      "author": "Jane Smith",
+      "content": "New AI techniques are helping researchers read previously illegible texts carbonized after the eruption of Mount Vesuvius in A.D. 79, revealing new historical insights."
+    },
+    {
+      "id": 3,
+      "type": "historical",
+      "headline": "Gobekli Tepe reveals new 11,000-year-old finds",
+      "date": "2024-05-10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUaEuVMOzmSxtraNO0I9wACWyEwu-fKxAXcA&s",
+      "author": "Ali Khan",
+      "content": "Recent excavations at Gobekli Tepe have uncovered more ancient artifacts, including statues and carvings, dating back 11,000 years, offering a glimpse into early human civilization."
+    },
+    {
+      "id": 4,
+      "type": "lifestyle",
+      "headline": "The London National Gallery celebrates 200 years",
+      "date": "2024-05-08",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBnpYnHaLBeyHAwyZl1nbzGTXR-gHULeRswQ&s",
+      "author": "Emily Clark",
+      "content": "The London National Gallery is celebrating its bicentennial with special exhibitions and events, reflecting on its history and looking towards future innovations in public outreach."
+    },
+    {
+      "id": 5,
+      "type": "lifestyle",
+      "headline": "University students use technology to restore historic buildings in Hawaii",
+      "date": "2024-05-06",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLUF2-6Nj3QGAv-bn6MoYJMMpBh3BSLWtxOQ&s",
+      "author": "Michael Lee",
+      "content": "Students at the University of Hawaii are employing cutting-edge technology to create digital twins of historic buildings damaged in wildfires, preserving them for future generations."
+    },
+    {
+      "id": 6,
+      "type": "food",
+      "headline": "Exploring the culinary heritage of Armenia",
+      "date": "2024-05-10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQykYwv96AlP1vliu065wO6dGOdAGF4rY4AYw&s",
+      "author": "Nina Petrosyan",
+      "content": "A deep dive into Armenian cuisine reveals a rich tradition of flavors and techniques, with dishes like khorovats and dolma highlighting the countrys culinary diversity."
+    },
+    {
+      "id": 7,
+      "type": "food",
+      "headline": "The rise of sustainable seafood: Benefits and challenges",
+      "date": "2024-05-05",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/02/shutterstock_1773695441-min.jpg",
+      "author": "Carlos Rodriguez",
+      "content": "Sustainable seafood is gaining popularity as consumers become more environmentally conscious. This article explores the benefits and challenges of this trend."
+    },
+    {
+      "id": 8,
+      "type": "science",
+      "headline": "Mysterious L-shaped structure discovered near Giza Pyramids",
+      "date": "2024-05-10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0tMj7Gbxf8B5zGg74xyKemXeTNry6S9m8tQ&s",
+      "author": "Laura Thompson",
+      "content": "Archaeologists have uncovered a 4,500-year-old L-shaped structure near the Great Pyramid of Giza, shedding new light on ancient Egyptian architecture."
+    },
+    {
+      "id": 9,
+      "type": "science",
+      "headline": "New insights into Homo naledi burial practices",
+      "date": "2024-05-10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qjY3qmyVg7LYeZbFTs0XYyHuchdxn6ih1A&s",
+      "author": "David Brown",
+      "content": "Recent studies suggest that Homo naledi, a species of early hominids, might have buried their dead, providing new insights into the evolution of burial practices."
+    },
+    {
+      "id": 10,
+      "type": "science",
+      "headline": "AI making 2,000-year-old scrolls readable again",
+      "date": "2024-05-02",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfWEXbpXO5OCnTu06ycd96UlHV6DuP-xLiA&s",
+      "author": "Sophia Li",
+      "content": "Innovative AI technology is helping researchers read ancient scrolls that were previously unreadable, unlocking mysteries from thousands of years ago."
+    }
+  ]
